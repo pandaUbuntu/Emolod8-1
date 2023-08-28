@@ -5,3 +5,10 @@ SpiderMan
 
 
 Hulk
+
+class User{
+
+    function getId(){
+
+    }
+}
