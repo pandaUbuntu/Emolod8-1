@@ -5,10 +5,3 @@ SpiderMan
 
 
 Hulk
-
-class User{
-
-    function getNumber(){
-
-    }
-}
